@@ -1,4 +1,5 @@
 class LoadoutItem:
+    gunName = ''
     attachments = {
         'muzzle': '',
         'barrel': '',
